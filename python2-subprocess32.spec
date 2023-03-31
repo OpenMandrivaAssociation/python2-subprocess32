@@ -7,7 +7,7 @@
 
 Name:           python2-subprocess32
 Version:        3.2.6
-Release:        1
+Release:        2
 Summary:        Backport of subprocess module from Python 3.2 to Python 2.*
 Group:          Development/Python
 License:        Python
