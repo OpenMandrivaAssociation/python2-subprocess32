@@ -11,7 +11,7 @@ Release:        2
 Summary:        Backport of subprocess module from Python 3.2 to Python 2.*
 Group:          Development/Python
 License:        Python
-URL:            http://pypi.python.org/pypi/subprocess32/
+URL:            https://pypi.python.org/pypi/subprocess32/
 Source0:        https://pypi.io/packages/source/s/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
 
 BuildRequires:  pkgconfig(python2)
